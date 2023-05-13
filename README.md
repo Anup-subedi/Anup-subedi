@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me --- **anupsubedi315@gmai.com**
+- 📫 How to reach me --- **anupsubedi315@gmail.com**
 
 - ⚡ Hobbies --- **I am quite a bibliophile**
 
