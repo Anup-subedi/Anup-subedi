@@ -16,7 +16,6 @@
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
 <a href="https://cplusplus.com" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" alt = "c++" width = "48" height = "48"/> </a>
-</p>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> <a  href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img  src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
