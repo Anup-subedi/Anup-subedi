@@ -27,10 +27,9 @@
    ---
 
 
-![](https://raw.githubusercontent.com/Anup-subedi/Profile_summary_cards/master/profile-summary-card-output/gotham/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Anup-subedi/Anup-subedi/master/profile-summary-card-output/gotham/0-profile-details.svg)
 - ### STATS (They're pathetic):
-
-![](https://raw.githubusercontent.com/Anup-subedi/Profile_summary_cards/master/profile-summary-card-output/gotham/3-stats.svg) ![](https://raw.githubusercontent.com/Anup-subedi/Profile_summary_cards/master/profile-summary-card-output/gotham/4-productive-time.svg)
+ ![](https://raw.githubusercontent.com/Anup-subedi/Anup-subedi/master/profile-summary-card-output/gotham/3-stats.svg) ![](https://raw.githubusercontent.com/Anup-subedi/Anup-subedi/master/profile-summary-card-output/gotham/4-productive-time.svg)
 
 
 
