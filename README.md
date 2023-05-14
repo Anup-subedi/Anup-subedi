@@ -27,16 +27,16 @@
    ---
 
 
-![](https://raw.githubusercontent.com/Anup033/Profile_summary_cards/master/profile-summary-card-output/gotham/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Anup-subedi/Profile_summary_cards/master/profile-summary-card-output/gotham/0-profile-details.svg)
 - ### STATS (They're pathetic):
 
-![](https://raw.githubusercontent.com/Anup033/Profile_summary_cards/master/profile-summary-card-output/gotham/3-stats.svg) ![](https://raw.githubusercontent.com/Anup033/Profile_summary_cards/master/profile-summary-card-output/gotham/4-productive-time.svg)
+![](https://raw.githubusercontent.com/Anup-subedi/Profile_summary_cards/master/profile-summary-card-output/gotham/3-stats.svg) ![](https://raw.githubusercontent.com/Anup-subedi/Profile_summary_cards/master/profile-summary-card-output/gotham/4-productive-time.svg)
 
 
 
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Anup033">
+    <img src="https://komarev.com/ghpvc/?username=Anup-subedi">
 </a>
-<a href="https://github.com/r-kjha?tab=followers"><img src="https://img.shields.io/github/followers/Anup033?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Anup-subedi?tab=followers"><img src="https://img.shields.io/github/followers/Anup-subedi?label=Followers&style=social" alt="GitHub Badge"></a>
